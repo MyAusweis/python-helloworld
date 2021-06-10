@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: MyAusweis/python-helloworld:latest
+          tags: myausweis/python-helloworld:latest
